@@ -1,3 +1,3 @@
 # My Username
 
-githubstudent
+My username on GitHub: @githubstudent
